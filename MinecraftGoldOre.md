@@ -13,12 +13,14 @@ Our Task was to create an object detection Algorithm or Object classification Al
 We chose to create a solution for an object detection problem with tensorflow and its object detection API.
 
 We tried to use several Tutorials online:
+
     * https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
     * https://towardsdatascience.com/custom-object-detection-using-tensorflow-from-scratch-e61da2e10087
     * https://colab.research.google.com/github/italojs/traffic-lights-detector/blob/master/traffic_lights_detector.ipynb#scrollTo=0EPZ3sE375TI
     * https://medium.com/@omcar17/how-to-convert-xml-files-into-tfrecords-in-tensorflow2-0-86120b553f0b
     * https://github.com/douglasrizzo/detection_util_scripts
     * and lots more!
+    
 and even combined multiple to get further into the game, however we always got stuck somwhere inbeween.
 
 The last thing we tried worked. First we used tensorflow version 2.3.0, even with TF Object detection API on the same version, nothing seemed to work.
