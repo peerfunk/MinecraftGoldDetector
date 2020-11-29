@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame72.jpg</filename>
+	<path>/media/peerfunk/New Volume/projekte/akt/images/frame72.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1166</width>
+		<height>702</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>575</xmin>
+			<ymin>404</ymin>
+			<xmax>738</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>684</xmin>
+			<ymin>662</ymin>
+			<xmax>719</xmax>
+			<ymax>697</ymax>
+		</bndbox>
+	</object>
+</annotation>

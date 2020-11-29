@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame426.jpg</filename>
+	<path>/home/peerfunk/object_detectionAPI/workspace/training_demo/images/train/frame426.xmlframe426.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1166</width>
+		<height>702</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

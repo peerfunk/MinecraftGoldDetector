@@ -1,0 +1,7 @@
+models/
+*.record
+*.tfrecord
+ckpt*
+saved_model/*
+checkpoint/*
+**/variables/*

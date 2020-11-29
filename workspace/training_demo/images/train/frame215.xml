@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame215.jpg</filename>
+	<path>/home/peerfunk/object_detectionAPI/workspace/training_demo/images/train/frame215.xmlframe215.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1166</width>
+		<height>702</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>686</xmin>
+			<ymin>664</ymin>
+			<xmax>721</xmax>
+			<ymax>693</ymax>
+		</bndbox>
+	</object>
+</annotation>
